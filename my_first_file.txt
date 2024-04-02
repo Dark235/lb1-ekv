@@ -1,2 +1,3 @@
 Это первый файл
 test row
+row to index
